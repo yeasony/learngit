@@ -1,4 +1,5 @@
 ﻿test
 test1
 test2
-self add
+self add and friend add
+
